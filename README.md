@@ -29,7 +29,7 @@
 ## Install packages or API:
 
 Create .env file add this variables
-
+```
 DATABASE =
 DATABASEURL = 
 PORT = 
@@ -37,7 +37,7 @@ AWS_ACCESS_KEY_ID =
 AWS_SECRET_ACCESS_KEY = 
 AWS_REGION= 
 AWS_BUCKET_NAME= 
-
+```
 Pre-requiste you should have node installed 
 
 ```
