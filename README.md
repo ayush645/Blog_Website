@@ -17,10 +17,11 @@
 
 ## Tech Stack Used
 
-# 1. MongoDb
-# 2. Express JS
-# 3. React JS
-# 4. Node JS
+1. MongoDb
+2. Express JS
+3. React JS
+4. Node JS
+  
 
 
 
@@ -29,7 +30,7 @@
 
 
 
-Pre-requiste you should have node installed and setup complted on your system to run AILOEC on your local system 
+Pre-requiste you should have node installed 
 
 ```
 $ cd server
