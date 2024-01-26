@@ -43,12 +43,20 @@ Pre-requiste you should have node installed
 ```
 $ cd server
 ```
+```
+$ npm install
+```
+
 
 ```
 $ npm run start
 ```
 ```
 $ cd client
+```
+
+```
+$ npm install
 ```
 ```
 $ npm run dev
